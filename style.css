@@ -1,18 +1,25 @@
 
-div{
+#main{    display: fixed;
+    background-image: linear-gradient(rgb(78, 72, 72), rgb(255, 255, 255));
 background-color: grey;
 width: 100%;
-height: 70px;
+height: 190px;
 }
 .logo
 {
-    
+    display: fixed;
+    color: white;
+    width: 10%;
+    margin-right: 100px;
+    margin-top: 80px;
     float:right;
 }
 #buttons{
+        margin-top: 110px;
     padding: 0px 60px;
-    right: 600px;
+    right: 700px;
     width: 500px;
+    height: 10px;
    position: absolute; 
 display: flex;
 flex-direction: right;
@@ -20,9 +27,15 @@ justify-content: center;
     font-size: 60px;
 }
 .dropbtn1 ,.dropbtn2 ,.dropbtn3 ,.dropbtn4 ,.dropbtn5 ,.dropbtn6 ,.dropbtn7{
+    display: inline;
     padding:0px 60px;
     font-size: 20px;
     color: white;
     background-color:rgba(240, 255, 240, 0);
     border-color: rgba(240, 255, 240, 0);
+}
+.second{
+    background-color: grey;
+width: 100%;
+height: 700px;
 }
