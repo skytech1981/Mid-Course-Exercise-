@@ -1,9 +1,10 @@
 
-#main{    display: fixed;
+#main{   
+     display: fixed;
     background-image: linear-gradient(rgb(78, 72, 72)85%, rgb(255, 255, 255));
-background-color: grey;
-width: 100%;
-height: 190px;
+    background-color: grey;
+    width: 100%;
+    height: 190px;
 }
 .logo
 {
@@ -14,19 +15,21 @@ height: 190px;
     margin-top: 80px;
     float:right;
 }
-#buttons{
-        margin-top: 110px;
+#buttons
+{
+    margin-top: 110px;
     padding: 0px 60px;
     right: 700px;
     width: 500px;
     height: 10px;
-   position: absolute; 
-display: flex;
-flex-direction: right;
-justify-content: center;
+    position: absolute; 
+    display: flex;
+    flex-direction: right;
+    justify-content: center;
     font-size: 60px;
 }
-.dropbtn1 ,.dropbtn2 ,.dropbtn3 ,.dropbtn4 ,.dropbtn5 ,.dropbtn6 ,.dropbtn7{
+.dropbtn1 ,.dropbtn2 ,.dropbtn3 ,.dropbtn4 ,.dropbtn5 ,.dropbtn6 ,.dropbtn7
+{
     display: inline;
     padding:0px 60px;
     font-size: 20px;
@@ -34,18 +37,20 @@ justify-content: center;
     background-color:rgba(240, 255, 240, 0);
     border-color: rgba(240, 255, 240, 0);
 }
-.second{
+.second
+{
     background-color: rgb(255, 255, 255);
-width: 100%;
-height: 700px;
+    width: 100%;
+    height: 700px;
 }
 
-.second{
-    
-   height: 800px;
+.second
+{
+     height: 800px;
     
 }
-.p1 ,.p2 ,.p3 {
+.p1 ,.p2 ,.p3 
+{
     margin-top: 40px;
     position: center;
     margin-left: 255px;
@@ -64,9 +69,8 @@ height: 700px;
     margin-top: -230px;
         height: 380px;
 }
-.tbox1{
-    
-    
+.tbox1
+{
     margin-top: 10px;
     margin-left: 252px;
     border: solid black;
@@ -74,9 +78,8 @@ height: 700px;
     height: 350px;
     border-radius: 0px 40px 0px 0px;
 }
-.tbox2{
-    
-    
+.tbox2
+{
     margin-top: 10px;
     margin-left: 252px;
     border: solid black;
@@ -84,8 +87,8 @@ height: 700px;
     height: 350px;
     border-radius: 0px 40px 0px 0px;
 }
-.tbox3{
-   
+.tbox3
+{
     margin-top: 10px;
     margin-left: 252px;
     border: solid black;
