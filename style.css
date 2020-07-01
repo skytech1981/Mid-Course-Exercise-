@@ -6,5 +6,23 @@ height: 70px;
 }
 .logo
 {
+    
     float:right;
+}
+#buttons{
+    padding: 0px 60px;
+    right: 600px;
+    width: 500px;
+   position: absolute; 
+display: flex;
+flex-direction: right;
+justify-content: center;
+    font-size: 60px;
+}
+.dropbtn1 ,.dropbtn2 ,.dropbtn3 ,.dropbtn4 ,.dropbtn5 ,.dropbtn6 ,.dropbtn7{
+    padding:0px 60px;
+    font-size: 20px;
+    color: white;
+    background-color:rgba(240, 255, 240, 0);
+    border-color: rgba(240, 255, 240, 0);
 }
