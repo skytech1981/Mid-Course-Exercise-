@@ -1,6 +1,6 @@
 
 #main{    display: fixed;
-    background-image: linear-gradient(rgb(78, 72, 72)90%, rgb(255, 255, 255));
+    background-image: linear-gradient(rgb(78, 72, 72)85%, rgb(255, 255, 255));
 background-color: grey;
 width: 100%;
 height: 190px;
@@ -35,7 +35,7 @@ justify-content: center;
     border-color: rgba(240, 255, 240, 0);
 }
 .second{
-    background-color: grey;
+    background-color: rgb(255, 255, 255);
 width: 100%;
 height: 700px;
 }
@@ -48,9 +48,10 @@ height: 700px;
 .p1 ,.p2 ,.p3 {
     margin-top: 100px;
     position: center;
-    margin-left: 10%;
-    padding:10px;
-width:400px;
-border-radius: 0px 0px 150px 0px;
-
+    margin-left: 255px;
+    width:400px;
+    border-color: rgba(255, 255, 255, 0);
+    border-radius: 4px 4px 40px 4px;
+    box-shadow: 0px 0px 1px 1px #000000;
+   
 }
