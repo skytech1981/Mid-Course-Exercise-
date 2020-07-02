@@ -14,21 +14,51 @@
     color: white;
     width: 10%;
     margin-right: 550px;
-    margin-top: 80px;
+    margin-top: 40px;
     float:right;
 }
 .menu
 {   font-family: Arial, Helvetica, sans-serif;
     margin-left: 380px;
-    margin-top: 110px;
+    margin-top: 80px;
     padding: 0px 80px;
-        height: 10px;
+    height: 10px;
     position: relative; 
-   
+    }
     
-   }
+.sbar{
+margin-left: 50px;
+
+}
+
+ .search
+    {
+        
+        margin-top: 10px;
+        width: 60px;
+        height: 27px;
+        
+    }
+
+.boxsearch
+{
+    position: relative;
+    margin-top: 26px;
+    width: 60px;
+    height:20px;
+    top: 2px;
+    
+}
+.psearch{
+    position: absolute;
+
+    height: 50px;
+    top:-13px;
+    
+}
 .dropbtn1 ,.dropbtn2 ,.dropbtn3 ,.dropbtn4 ,.dropbtn5 ,.dropbtn6 ,.dropbtn7
 {
+    
     margin-left: 30px;
     width: 200px;
     height: 30px;
@@ -164,10 +194,4 @@
     display: inline-block;
     border-bottom: 2px solid grey;
     font-size: 16px;
-}
-.menu li:hover
-{
-    color: blue;
-    font-weight: bold;
-    background-color: cornsilk;
 }
