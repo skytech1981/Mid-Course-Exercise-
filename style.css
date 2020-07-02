@@ -19,24 +19,24 @@
 }
 .menu
 {   font-family: Arial, Helvetica, sans-serif;
-    margin-left: 320px;
+    margin-left: 380px;
     margin-top: 110px;
     padding: 0px 80px;
         height: 10px;
     position: relative; 
-    display: flex;
-    flex-direction: center;
+   
     
-    font-size: 60px;
-}
+   }
 .dropbtn1 ,.dropbtn2 ,.dropbtn3 ,.dropbtn4 ,.dropbtn5 ,.dropbtn6 ,.dropbtn7
-{   margin-left: 20px;
+{
+    margin-left: 30px;
+    width: 200px;
     height: 30px;
     border-right: 2px solid rgb(255, 255, 255);
     position: relative;
     display: inline;
-    padding:0px 15px;
-    font-size: 25px;
+    padding:0px 20px 0px 0px;
+    font-size: 20px;
     color: white;
     background-color:rgba(240, 255, 240, 0);
     
