@@ -1,6 +1,7 @@
 
 #main{   
-     display: fixed;
+     
+    position: absolute;
     background-image: linear-gradient(rgb(78, 72, 72)85%, rgb(255, 255, 255));
     background-color: grey;
     width: 100%;
@@ -16,11 +17,10 @@
     float:right;
 }
 .menu
-{
+{   font-family: Arial, Helvetica, sans-serif;
     margin-top: 110px;
-    padding: 0px 60px;
-    right: 700px;
-    
+    padding: 0px 80px;
+    right: 420px;
     height: 10px;
     position: absolute; 
     display: flex;
@@ -29,13 +29,16 @@
     font-size: 60px;
 }
 .dropbtn1 ,.dropbtn2 ,.dropbtn3 ,.dropbtn4 ,.dropbtn5 ,.dropbtn6 ,.dropbtn7
-{
+{   margin-left: 20px;
+    height: 30px;
+    border-right: 2px solid rgb(255, 255, 255);
+    position: relative;
     display: inline;
     padding:0px 60px;
-    font-size: 20px;
+    font-size: 25px;
     color: white;
     background-color:rgba(240, 255, 240, 0);
-    border-color: rgba(240, 255, 240, 0);
+    
 }
 .second
 {
