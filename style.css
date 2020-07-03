@@ -43,10 +43,8 @@ border-radius: 4px 4px 40px 4px;
 
  .search
     {
-        
-        margin-top: 5px;
         width: 60px;
-        height: 27px;
+        height: 12px;
         border:10px solid black;
         border-radius: 4px 4px 40px 4px;
     }
@@ -62,7 +60,7 @@ border-radius: 4px 4px 40px 4px;
 }
 .psearch{
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 18px;
+    font-size: 14px;
     font-weight: bolder;
     color: white;
     position: relative;
@@ -114,7 +112,9 @@ border-radius: 4px 4px 40px 4px;
 }
 .third
 {
-    margin-top: -330px;
+    position: relative;
+    left: 255px;
+    margin-top: -370px;
     display: flex;
     flex-direction: row;
     height: 380px;
@@ -126,48 +126,53 @@ border-radius: 4px 4px 40px 4px;
     margin-top: -10px;
     margin-left: 400px;
     border: solid black;
-    width: 390px;
-    height: 300px;
+    width: 276px;
+    height: 250px;
     border-radius: 0px 40px 0px 0px;
 }
 .tbox2
 {
     background-image: linear-gradient(rgb(255, 253, 253)60%, rgb(224, 224, 224));
     margin-top: -10px;
-    margin-left: 40px;
+    margin-left: 15px;
     border: solid black;
-    width: 390px;
-    height: 300px;
+    width: 275px;
+    height: 250px;
     border-radius: 0px 40px 0px 0px;
 }
 .tbox3
 {
     background-image: linear-gradient(rgb(255, 253, 253)60%, rgb(224, 224, 224));
     margin-top: -10px;
-    margin-left: 40px;
+    margin-left: 15px;
     border: solid black;
-    width: 390px;
-    height: 300px;
+    width: 275px;
+    height: 250px;
     border-radius: 0px 40px 0px 0px;
 }
 .img1
 {
     margin-top: 20px;
     margin-left: 20px;
-    width: 110px;
-    height: 220px;
+    width: 100px;
+    height: 150px;
 }
 .img2
 {
-    margin-top: 10px;
-        width: 350px;
-        margin-left: 25px;
+    position: relative;
+    left: 10px;
+    margin-top: 30px;
+    width: 250px;
+
+        
 }
 .img3
-{
+{   
+    position: relative;
+    right: 10px;
     margin-top: 10px;
     margin-left: 20px;
-    width: 350px;
+    width: 250px;
     
 }
 .title1
