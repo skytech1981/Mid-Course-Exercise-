@@ -139,18 +139,18 @@ border-radius: 4px 4px 40px 4px;
 .tbox1
 {
     background-image: linear-gradient(rgb(255, 253, 253)60%, rgb(230, 228, 228));
-    margin-top: -20px;
+    margin-top: -10px;
     margin-left: 402px;
     border: 2px solid rgb(223, 223, 223);
     width: 276px;
-    height: 250px;
+    height: 230px;
     border-radius: 0px 20px 0px 0px;
 }
 .tbox2
 {
     background-image: linear-gradient(rgb(255, 253, 253)60%, rgb(230, 228, 228));
-    margin-top: -20px;
-    margin-left: 23px;
+    margin-top: -30px;
+    margin-left: -42px;
     border: 2px solid rgb(223, 223, 223);
     width: 275px;
     height: 250px;
@@ -159,9 +159,9 @@ border-radius: 4px 4px 40px 4px;
 .tbox3
 {
     background-image: linear-gradient(rgb(255, 253, 253)60%, rgb(230, 228, 228));
-    margin-top: -20px;
+    margin-top: -30px;
     margin-left: 18px;
-    border: 2px solid rgb(223, 223, 223);
+    border: 1px solid rgb(223, 223, 223);
     width: 275px;
     height: 250px;
     border-radius: 0px 20px 0px 0px;
@@ -290,7 +290,7 @@ border: 5px solid black;
     padding-bottom: 5px;
     font-weight: bold;
     word-spacing: -0px;
-    margin-top: 210px;
+    margin-top: 190px;
     margin-left: -250px;
     font-family: Arial, Helvetica, sans-serif;
     letter-spacing: 2px;
@@ -304,9 +304,46 @@ border: 5px solid black;
     font-weight: bold;
     word-spacing: -0px;
     margin-top: 30px;
-    margin-left:20px;
+    margin-left:25px;
     font-family: Arial, Helvetica, sans-serif;
     letter-spacing: 2px;
         font-size: 12px;
 }
+.textbox1{
+    padding-left: 20px;
+    position: relative;
+    top: 30px;
+    left:-70px;
+    height: 60px;
+    width: 40px;
+}
 
+.tbox1text1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+    padding-left:5px;
+    
+font-size: 15px;
+padding-top: 2px;
+   list-style-type: none;
+}
+.tbox1text2{
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+    font-size: 15px;
+    padding-top: 2px;
+       list-style-type: none;
+    }
+.tbox1text3{
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+        font-size: 15px;
+        padding-top: 2px;
+           list-style-type: none;
+        }
+
+.tbox1text1:hover,.tbox1text2:hover,.tbox1text3:hover,.ltitle3:hover,.ltitle2:hover
+{
+color: blue;
+
+}
