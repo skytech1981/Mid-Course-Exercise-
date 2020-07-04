@@ -139,11 +139,11 @@ border-radius: 4px 4px 40px 4px;
 .tbox1
 {
     background-image: linear-gradient(rgb(255, 253, 253)60%, rgb(230, 228, 228));
-    margin-top: -10px;
+    margin-top: -30px;
     margin-left: 402px;
     border: 2px solid rgb(223, 223, 223);
     width: 276px;
-    height: 230px;
+    height: 250px;
     border-radius: 0px 20px 0px 0px;
 }
 .tbox2
@@ -225,13 +225,12 @@ border-radius: 4px 4px 40px 4px;
     font-weight: bolder;
     word-spacing: -0px;
     margin-top: 10px;
-    padding-left: 30px;
     font-family: Arial, Helvetica, sans-serif;
     letter-spacing: 2px;
-    margin-left: 25px;
+    margin-left: 6px;
     display: inline-block;
     border-bottom: 2px solid grey;
-    font-size: 12px;
+    font-size: 11.5px;
 }
 
 .second .images .p1:hover{
@@ -346,4 +345,24 @@ padding-top: 2px;
 {
 color: blue;
 
+}
+.icon{
+    background: url("/rm-yellow.png") no-repeat;
+    position: relative;
+    left: -115px;
+}
+.icon:hover
+{
+     content: url("/rm-white.png");
+    
+}
+.icont1
+{
+    position: relative;
+    left: -40px;
+}
+.icont1:hover
+{
+     content: url("/rm-white.png");
+    
 }
