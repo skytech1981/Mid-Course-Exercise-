@@ -38,10 +38,12 @@
   #menu li:hover
   {
       color: blue;
+      transition: 0.5s;
   }
   #fmenu li:hover
   {
       color: blue;
+      transition: 0.5s;
   }
 
 .sbar{
@@ -233,13 +235,13 @@ border-radius: 4px 4px 40px 4px;
 }
 
 .second .images .p1:hover{
-        border: 1px solid green;
+        border: 1px solid rgb(173, 173, 173);
 }
 .second .images .p2:hover{
-    border: 1px solid green;
+    border: 1px solid rgb(173, 173, 173);
 }
 .second .images .p3:hover{
-    border: 1px solid green;
+    border: 1px solid rgb(173, 173, 173);
 }
 
 footer
