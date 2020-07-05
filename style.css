@@ -315,16 +315,7 @@ footerc
     position: relative;
     top: 22px;
     left:1350px;
-    
-    
-}
-
-
-
-
-
-
-
+   }
    
   .btn1 ,.btn2 ,.btn3 ,.btn4 ,.btn5 ,.btn6 ,.btn7,.btn8
 {
@@ -646,7 +637,7 @@ margin-top: -47px;
     border: 2px solid rgb(223, 223, 223);
     width: 200px;
     height: 160px;
-    top: -150px;
+    top: -146px;
     left: -250px;
     border-radius: 0px 20px 0px 0px;
 }
@@ -655,8 +646,12 @@ margin-top: -47px;
     font-size: 13px;
 }
 .conten3{
+    position:relative;
+    right: -2px;
+    top:20px;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 13px;
+        font-size: 15px;
+       
 }
 .area{
     direction: rtl;
