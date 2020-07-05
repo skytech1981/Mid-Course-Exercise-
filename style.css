@@ -15,15 +15,24 @@
   
 .logo
 {
-    position: static;
+    
     position: absolute;
     right: 150px;
     top: -55px;
     width: 8%;
     color: white;
-    margin-right: 300px;
+    margin-right: 290px;
     margin-top: 90px;
     float:right;
+    clear: right;
+}
+.home1{
+    position: relative;
+    right: -1270px;
+    top: 38px;
+    
+
+   
 }
 #menu
 {   
@@ -32,9 +41,9 @@
     flex-direction: row-reverse;
     position: relative;
     width: 800px;
-    left: 480px;
+    left: 460px;
     font-family: Arial, Helvetica, sans-serif;
-    margin-top: 25px;
+    margin-top: 18px;
    
     
   }
@@ -66,19 +75,18 @@ border-radius: 4px 4px 40px 4px;
     {
         width: 50px;
         height: 12px;
-        border:10px solid black;
         border-radius: 4px 4px 40px 4px;
     }
 
-.boxsearch
+.boxsearch1
 {
     position: relative;
     top: -20px;
-    width: 170px;
+    width: 182px;
     height:17px;
     border:2px solid black;
-    border-radius: 4px 4px 40px 4px;
-    
+    border-radius: 4px 4px 40px 4px; 
+   
 }
 .psearch{
     font-family: Arial, Helvetica, sans-serif;
@@ -87,8 +95,9 @@ border-radius: 4px 4px 40px 4px;
     color: white;
     position: relative;
     top:-15px;
-    left: 180px;
+    left: 190px;
     height: 50px;
+    
   
     
 }
@@ -283,7 +292,7 @@ footer
     height: 250px;
       background-color: rgb(158, 144, 144);     
       font-family: Arial, Helvetica, sans-serif;
-      margin-top: -30px;
+      margin-top: -80px;
    
     
   }
