@@ -83,8 +83,8 @@ border-radius: 4px 4px 40px 4px;
     position: relative;
     top: -20px;
     width: 182px;
-    height:17px;
-    border:2px solid black;
+    height:6px;
+ 
     border-radius: 4px 4px 40px 4px; 
    
 }
@@ -628,5 +628,13 @@ margin-top: -47px;
 .conten3{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 13px;
+}
+.area{
+    direction: rtl;
+    position: relative;
+    top: -320px;
+    width: 85%;
+    height: 90px;
+    left: 25px;
 }
                
