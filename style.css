@@ -547,18 +547,47 @@ margin-top: -47px;
      position: relative;
      background-image: linear-gradient(rgb(255, 253, 253)60%, rgb(230, 228, 228));
     border: 2px solid rgb(223, 223, 223);
-    width: 476px;
+    width: 400px;
     height: 350px;
-    top: 150px;
-    left: 730px;
+    top: 100px;
+    left: 840px;
     border-radius: 0px 20px 0px 0px;
 }
 .con{
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+    font-weight: bold;
     position: relative;
-    font-size: 26px;
+    font-size: 17px;
     right: 30px;
     text-align: right;
+} 
+.conten
+{
+    font-family: Arial, Helvetica, sans-serif;
+    direction: rtl;
+    font-weight: bold;
+    position: relative;
+    margin-left: 50px;
+    margin-top: -10px;
+    width: 80%;
+    font-size: 14px;
 }
-
-          
+.con2{
+    direction: rtl;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    position: relative;
+    font-size: 13px;
+    right: 30px;
+    margin-top: -10px;
+    text-align: right;
+}
+         
+    .info{
+        direction: rtl;
+        margin-right: 90px;
+        font-size: 15px;
+    }
         
