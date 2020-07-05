@@ -28,7 +28,7 @@
 }
 .home1{
     position: relative;
-    right: -1260px;
+    right: -1210px;
     top: 38px;
     
 
@@ -41,7 +41,7 @@
     flex-direction: row-reverse;
     position: relative;
     width: 800px;
-    left: 460px;
+    left: 400px;
     font-family: Arial, Helvetica, sans-serif;
     margin-top: 18px;
    
@@ -292,16 +292,22 @@ footer
     height: 250px;
       background-color: rgb(158, 144, 144);     
       font-family: Arial, Helvetica, sans-serif;
-      margin-top: -100px;
-   
+      margin-top: -120px;
+      
+   }
+   .ficon{
+    position: relative;
+    top: 22px;
+    left:1350px;
     
-  }
+    
+}
    
   .btn1 ,.btn2 ,.btn3 ,.btn4 ,.btn5 ,.btn6 ,.btn7,.btn8
 {
     position: relative;
-    left: 520px;
-    top: -10px;
+    left: -870px;
+    top: -25px;
     border-right: 2px solid rgb(170, 170, 170);
     display: inline;
     padding:0px 7px 0px 7px;
@@ -312,8 +318,8 @@ footer
 
 .btn9{
     position: relative;
-    left: 520px;
-    top: -10px;
+    left: -870px;
+    top: -25px;
     border-right: 2px solid rgb(170, 170, 170);
     display: inline;
     padding:0px 10px 0px 15px;
