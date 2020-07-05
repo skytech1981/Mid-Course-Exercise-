@@ -28,7 +28,7 @@
 }
 .home1{
     position: relative;
-    right: -1270px;
+    right: -1260px;
     top: 38px;
     
 
@@ -529,6 +529,14 @@ color: blue;
                  left: 507px;
                  top: -410px;
                  border-radius: 0px 0px 20px 0px;
+             }
+             .contact
+             {
+position: relative;
+bottom: 700px;
+left: 500px;
+width: 40%;
+
              }
 
           
