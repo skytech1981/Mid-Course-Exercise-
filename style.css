@@ -122,7 +122,7 @@ border-radius: 4px 4px 40px 4px;
   
 }
 .p1 
-{     border: 1px solid rgb(223, 223, 223);
+{   border: 1px solid rgba(255, 255, 255, 0);
     position: relative;
     left: 755px;
     margin-top: 40px;
@@ -135,7 +135,7 @@ border-radius: 4px 4px 40px 4px;
    
 }
 .p2 
-{     border: 1px solid rgb(223, 223, 223);
+{   border: 1px solid rgba(255, 255, 255, 0);
     position: relative;
     left: 100px;
     margin-top: 40px;
@@ -148,7 +148,7 @@ border-radius: 4px 4px 40px 4px;
    
 }
 .p3 
-{     border: 1px solid rgb(223, 223, 223);
+{   border: 1px solid rgba(255, 255, 255, 0);
     position: relative;
     left: 200px;
     margin-top: 40px;
