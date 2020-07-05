@@ -292,7 +292,7 @@ footer
     height: 250px;
       background-color: rgb(158, 144, 144);     
       font-family: Arial, Helvetica, sans-serif;
-      margin-top: -80px;
+      margin-top: -100px;
    
     
   }
@@ -530,12 +530,14 @@ color: blue;
                  top: -410px;
                  border-radius: 0px 0px 20px 0px;
              }
-             .contact
-             {
+
+  .contact
+    {
 position: relative;
 bottom: 700px;
 left: 500px;
-width: 40%;
+width: 30%;
+margin-top: -47px;
 
              }
 
