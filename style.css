@@ -539,7 +539,26 @@ left: 500px;
 width: 30%;
 margin-top: -47px;
 
-             }
+}
+
+          
+.conbox1
+{  
+     position: relative;
+     background-image: linear-gradient(rgb(255, 253, 253)60%, rgb(230, 228, 228));
+    border: 2px solid rgb(223, 223, 223);
+    width: 476px;
+    height: 350px;
+    top: 150px;
+    left: 730px;
+    border-radius: 0px 20px 0px 0px;
+}
+.con{
+    position: relative;
+    font-size: 26px;
+    right: 30px;
+    text-align: right;
+}
 
           
         
