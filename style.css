@@ -346,6 +346,9 @@ footerc
 border: 5px solid black;
 }
 
+.textp1>h1 {
+    font-family: serif;
+}
 .ltitle3{
     display: relative;
     text-decoration: underline;
@@ -410,7 +413,7 @@ color: blue;
 
 }
 .icon{
-    background: url("/rm-yellow.png") no-repeat;
+       background: url("/rm-yellow.png") no-repeat;
     position: relative;
     left: -115px;
 }
